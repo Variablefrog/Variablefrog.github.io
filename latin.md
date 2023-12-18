@@ -10,8 +10,7 @@ My favorite search engine is Duck Duck Go https://duckduckgo.com
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
-![The San Juan Mountains are beautiful!]([/assets/images/san-juan-mountains.jpg](https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?t=st=1702861606~exp=1702862206~hmac=8fda298bb0bc0c76ea7bc9c870acf581759235f37c51a1562114d6dcf0b80968) "San Juan Mountains")
-
+![The San Juan Mountains are beautiful!](https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?w=2000&t=st=1702861608~exp=1702862208~hmac=9ba82afd798c8144f366b90f64e30293027759428e613690fa4f1347654adf95)
 
 [^1]: This is the first footnote.
 
